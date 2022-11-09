@@ -1,0 +1,198 @@
+* {
+  box-sizing: border-box;
+}
+
+html{
+  background-color:#4b5755;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding:1vw;
+}
+
+h1{
+  color:white;
+  margin:30px auto;
+  width:50%;
+  text-align:center;
+  padding:20px;
+  text-transform:uppercase;
+  font-size:3vw;
+  letter-spacing:5px;
+  border-top:1px solid;
+  border-bottom:1px solid;
+}
+p{
+  color:white;
+  width:25%;
+  text-align:left;
+  padding:20px;
+  font-size:2vw;
+  letter-spacing:5px;
+
+}
+
+.contentBox{
+  margin: 100px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.buttonBox{
+  margin: 0 20px 40px;
+  position:relative;
+  max-width: 200px;
+  min-width: 150px;
+  flex: 20%;
+}
+
+button{
+  width:100%;
+  height:80px;
+  position:relative;
+  background:rgba(255, 255, 255, .27);
+  text-transform:uppercase;
+  color:white;
+  font-weight:700;
+  letter-spacing:1px;
+  border:none;
+  font-size:15px;
+  outline:none;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  cursor: pointer;
+}
+
+
+/* FIRST BUTTON */
+
+#first>button{
+  transition:all .5s ease-in-out;
+}
+
+#first:hover button{
+  background:white;
+  color:#5d8a91;
+}
+
+
+
+/* SECOND BUTTON */
+
+#second>button{
+  transition:all .5s ease-in-out;
+}
+
+#second:hover button{
+  background:white;
+  color:#5d8a91;
+}
+
+
+/* THIRD BUTTON */
+
+#third>button{
+  transition:all .5s ease-in-out;
+}
+
+#third:hover button{
+  background:white;
+  color:#5d8a91;
+}
+/* FOURTH BUTTON */
+
+#fourth>button{
+  transition:all .5s ease-in-out;
+}
+
+#fourth:hover button{
+  background:white;
+  color:#5d8a91;
+}
+
+/* FIFTH BUTTON */
+
+#fifth>button{
+  transition:all .5s ease-in-out;
+}
+
+#fifth:hover button{
+  background:white;
+  color:#5d8a91;
+}
+
+/* SIXTH BUTTON */
+
+#sixth>button{
+  transition:all .5s ease-in-out;
+}
+
+#sixth:hover button{
+  background:white;
+  color:#5d8a91;
+}
+/* SEVENTH BUTTON */
+
+#seventh>button{
+  transition:all .5s ease-in-out;
+}
+
+#seventh:hover button{
+  background:white;
+  color:#5d8a91;
+}
+
+/* EIGHTH BUTTON */
+
+#eighth>button{
+  transition:all .5s ease-in-out;
+}
+
+#eighth:hover button{
+  background:white;
+  color:#5d8a91;
+}
+
+/* NINTH HOVER */
+
+#ninth>button{
+  transition:all .5s ease-in-out;
+}
+
+#ninth:hover button{
+  background:white;
+  color:#5d8a91;
+}
+
+/* TENTH BUTTON */
+
+
+#tenth>button{
+  transition:all .5s ease-in-out;
+}
+
+#tenth:hover button{
+  background:white;
+  color:#5d8a91;
+}
+/* ELEVENTH BUTTON */
+
+
+#eleventh>button{
+  transition:all .5s ease-in-out;
+}
+
+#eleventh:hover button{
+  background:white;
+  color:#5d8a91;
+}
+
+/* twelveth BUTTON */
+
+
+#twelveth>button{
+  transition:all .5s ease-in-out;
+}
+
+#twelveth:hover button{
+  background:white;
+  color:#5d8a91;
+}
